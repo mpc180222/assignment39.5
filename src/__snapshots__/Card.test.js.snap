@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      a nice picture
+    </h4>
+    <img
+      alt="a nice picture"
+      class="Card-image"
+      src="https://images.unsplash.com/photo-1660663577778-c45295fc2dec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    />
+    <small
+      class="Card-small"
+    >
+      Image 1 of 1.
+    </small>
+  </div>
+</DocumentFragment>
+`;
